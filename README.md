@@ -1,4 +1,4 @@
-# Advent of JS day 2
+# Advent of JS day 7
 
 This is my version of the challenge offered by @Amy Duton on <https://www.adventofjs.com/>
 
@@ -9,5 +9,7 @@ This is my version of the challenge offered by @Amy Duton on <https://www.advent
 
 ## Run it
 
-`yarn`
-`yarn start`
+```
+yarn
+yarn start
+```
